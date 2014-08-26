@@ -928,7 +928,7 @@ namespace JabbR {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ban a user from JabbR!.
+        ///   Looks up a localized string similar to Ban a user!.
         /// </summary>
         public static string Ban_CommandInfo {
             get {
@@ -1009,7 +1009,7 @@ namespace JabbR {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Welcome to JabbR
+        ///   Looks up a localized string similar to Welcome
         ///Use ? or type /? to display the FAQ and list of commands..
         /// </summary>
         public static string Chat_InitialMessages {
@@ -1703,7 +1703,7 @@ namespace JabbR {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The connection to JabbR has been lost, trying to reconnect..
+        ///   Looks up a localized string similar to The connection has been lost, trying to reconnect..
         /// </summary>
         public static string Client_Disconnected {
             get {
@@ -1769,7 +1769,7 @@ namespace JabbR {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to JabbR Help.
+        ///   Looks up a localized string similar to Help.
         /// </summary>
         public static string Client_Help {
             get {
@@ -1778,7 +1778,7 @@ namespace JabbR {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Jabbr Error.
+        ///   Looks up a localized string similar to Error.
         /// </summary>
         public static string Client_JabbrError {
             get {
@@ -1796,7 +1796,7 @@ namespace JabbR {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to JabbR Settings.
+        ///   Looks up a localized string similar to Settings.
         /// </summary>
         public static string Client_JabbrSettings {
             get {
@@ -1913,7 +1913,7 @@ namespace JabbR {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The connection to JabbR has been temporarily lost, trying to reconnect..
+        ///   Looks up a localized string similar to The connection has been temporarily lost, trying to reconnect..
         /// </summary>
         public static string Client_Reconnecting {
             get {
@@ -1922,7 +1922,7 @@ namespace JabbR {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to JabbR Update.
+        ///   Looks up a localized string similar to Update.
         /// </summary>
         public static string Client_RefreshRequiredHeader {
             get {
@@ -1949,7 +1949,7 @@ namespace JabbR {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Start typing to filter room list....
+        ///   Looks up a localized string similar to Search room.
         /// </summary>
         public static string Client_RoomFilterInstruction {
             get {
@@ -2545,7 +2545,7 @@ namespace JabbR {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Log this client out from JabbR and remove browser cookie..
+        ///   Looks up a localized string similar to Log this client out and remove browser cookie..
         /// </summary>
         public static string Logout_CommandInfo {
             get {
