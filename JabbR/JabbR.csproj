@@ -883,6 +883,8 @@
     <EmbeddedResource Include="Migrations\201310240539050_AddPrecision.resx">
       <DependentUpon>201310240539050_AddPrecision.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="Properties\PublishProfiles\singgles - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\singgles - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-2.0.3.intellisense.js" />
     <Content Include="Scripts\jquery-2.0.3.js" />
     <Content Include="Scripts\jquery-2.0.3.min.js" />
